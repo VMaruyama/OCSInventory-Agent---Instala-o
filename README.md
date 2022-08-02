@@ -20,3 +20,5 @@ Para forçar que o agente envie os dados execute o binário do agente.
 No painel foi necessário se desconectar e autenticar novamente (caso a sessão esteja aberta) para que as informações exibidas considerem o novo computador inventariado.
 
 Pronto! Agora você já tem um OCS Inventory configurado e já sabe como instalar o agente.
+
+.
