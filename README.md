@@ -21,4 +21,4 @@ No painel foi necessário se desconectar e autenticar novamente (caso a sessão 
 
 Pronto! Agora você já tem um OCS Inventory configurado e já sabe como instalar o agente.
 
-.
+.<font color=\"red\">Texto com cor vermelha</font>
